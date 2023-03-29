@@ -1,0 +1,15 @@
+{
+  "name": "simple-chatgpt-chat-streaming-demo",
+  "version": "1.0.0",
+  "description": "Just a demo on creating some simple ChatGPT demo with streaming chat in node using the streamed-chatgpt-api module.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johann Dowa",
+  "license": "MIT",
+  "dependencies": {
+    "streamed-chatgpt-api": "^1.0.6"
+  }
+}

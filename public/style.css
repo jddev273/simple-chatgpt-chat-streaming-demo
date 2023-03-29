@@ -1,0 +1,24 @@
+.card {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.chat-area {
+  flex-grow: 1;
+  overflow-y: auto;
+}
+
+#chat-content {
+  flex-grow: 1;
+  overflow-y: auto;
+}
+
+.form-outline .form-control:focus ~ .form-label {
+  color: #39c0ed;
+  transition: all 0.2s linear;
+}
+
+.form-outline .form-control ~ .form-label {
+  color: #bfbfbf;
+}
