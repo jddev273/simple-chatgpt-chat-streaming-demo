@@ -2,6 +2,10 @@
 
 This repository contains a simple web application that provides a simple Node.JS chat application using the ChatGPT API through the streamed-chatgpt-api node library. Chat messages for each user are stored in memory.
 
+## Video Demo
+
+[![Streaming Chat Demo](https://img.youtube.com/vi/Rc2kJ9LcgMg/0.jpg)](https://www.youtube.com/watch?v=Rc2kJ9LcgMg)
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
